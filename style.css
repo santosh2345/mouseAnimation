@@ -1,0 +1,8 @@
+#canvas{
+    position: sticky;
+    left: 0;
+    width: 1366;
+    max-width: 100%;
+    height: 277;
+    z-index: -1;
+  }
